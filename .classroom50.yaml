@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mpt"
+assignment: "markup-basics"
+owner:
+  username: "Lavandamosh"
+  id: 317386501
+  accepted_at: "2026-10-22T03:02:15Z"
+source:
+  owner: "nsu-syspro"
+  owner_id: 115493553
+  repo: "mpt-markup-basics"
+  branch: "main"
