@@ -1,0 +1,16 @@
+digraph FiniteAutomaton {
+    
+    rankdir=LR;
+
+    node [shape=circle];
+    
+    
+    2 [shape=doublecircle];
+
+    S -> 0;
+    0 -> 1 [label="a"];
+    0 -> 1 [label="b"];
+    1 -> 1 [label="c"];
+    1 -> 2 [label="d"];
+}
+
